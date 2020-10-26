@@ -1,2 +1,2 @@
-# face_detect
+# FaceDetector
 Face detector using python and OpenCV
