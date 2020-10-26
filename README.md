@@ -1,2 +1,2 @@
 # FaceDetector
-Face detector using python and OpenCV
+Face detector using python and OpenCV.
